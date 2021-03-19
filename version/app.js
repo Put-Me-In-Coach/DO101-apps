@@ -5,10 +5,13 @@ var response;
 
 app.get('/', function (req, res) {
 
+
 <<<<<<< HEAD
     response = 'This is version 3 of the app.' + '\n';
 =======
 
+
+>>>>>>> 60001e444f12d9a10d1631e65c65eb3818358886
 
     //send the response to the client
     res.send(response);
